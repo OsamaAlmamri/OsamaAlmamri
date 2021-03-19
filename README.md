@@ -1,6 +1,6 @@
 <h2>  Hi there, I'm Osama  Almamari! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
    <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
- <h3 align="left">I'm a Junior Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>  
+ <h3 align="left">I'm a Senior Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>  
   
 
 - 💗 Passionate about systems analysis and database design .  
@@ -13,8 +13,8 @@
   
 
 - 💻  working as freelancer web Developer.
-- 💻   I have more than 3 years of experience in the web development field .
-- 💻   So far, it has operated more than 15 sites and systems.
+- 💻   I have more than 5 years of experience in the web development field .
+- 💻   So far, I has operated more than 15 sites and systems.
 
   
 
