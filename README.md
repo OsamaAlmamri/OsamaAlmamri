@@ -19,7 +19,7 @@
   
 
 
-- 📃 Have a look to my [CV](https://drive.google.com/file/d/1ien7F8ti4D0mrMdAMWMoXiVO6mk_LR--/view?usp=sharing).  
+- 📃 Have a look to my [CV](https://drive.google.com/file/d/1oMQyLe2EJiYdxFDT0sgEZU9XGpFUnaEP/view?usp=sharing).  
 
 
 
