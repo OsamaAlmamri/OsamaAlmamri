@@ -21,7 +21,7 @@
 
 - 📃 Have a look to my [CV](https://drive.google.com/file/d/1T9RA2_omMip7SMoRGXg3kjBXykq3RQTd/view?usp=sharing).  
 
-- 📃 Have a look to my [CV](/osama cv 8 25.pdf).  
+- 📃 Have a look to my [CV](osama cv 8 25.pdf).  
 
 
 <br/>  
