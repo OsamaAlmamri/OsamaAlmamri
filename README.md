@@ -25,7 +25,8 @@
 
 
 <br/>  
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OsamaAlmamri" alt="OsamaAlmamri" /> <img src="https://wakatime.com/badge/user/2b7f1103-4a86-4ff2-a29a-35149552af7c.svg" alt="Code Time" /> <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="OsamaAlmamri" /> <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="open source"/>  <br />
+   </p>
 
 ## 🥰 Feel Free to Contact me..... 
 <div align="center">
