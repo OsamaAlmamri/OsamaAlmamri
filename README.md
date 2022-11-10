@@ -19,7 +19,7 @@
   
 
 
-- 📃 Have a look to my [CV_on_GoogleDrive](https://drive.google.com/file/d/1T9RA2_omMip7SMoRGXg3kjBXykq3RQTd/view?usp=sharing).  
+- 📃 Have a look to my [CV_on_GoogleDrive](https://drive.google.com/file/d/17kTGwvK1-zQc6kJkq4SDEY_nkyTtPPYZ/view?usp=sharing).  
 
 - 📃 Have a look to my [CV_on_Github](https://github.com/OsamaAlmamri/OsamaAlmamri/blob/master/osama%20cv%208%2025.pdf).  
 
