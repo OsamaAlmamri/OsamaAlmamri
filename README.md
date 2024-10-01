@@ -13,8 +13,8 @@
   
 
 - 💻  working as freelancer web Developer.
-- 💻   I have more than 5 years of experience in the web development field .
-- 💻   So far, I has operated more than 15 sites and systems.
+- 💻   I have more than 6 years of experience in the web development field .
+- 💻   So far, I has operated more than 26 sites and systems.
 
   
 
