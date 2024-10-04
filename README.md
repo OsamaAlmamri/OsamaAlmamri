@@ -53,7 +53,7 @@
 <br/>  
 
 
-## 🛠️ Programming Languages and tools.....
+## 🛠️ Programming Languages and tools....
 
 <table><tr><td valign="top" width="33%">
 
