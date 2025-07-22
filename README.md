@@ -1,50 +1,50 @@
-## 👋 Hi there, I'm Osama Al-Mamari
+## 👋 Hi, I'm Osama Al-Mamari
 
-🚀 Technical Project Lead | Full Stack Web Developer | Team Leader  
-🌍 From Yemen — building scalable digital platforms with real-world impact
+🚀 Technical Project Lead · Full Stack Web Developer · Engineering Team Lead  
+🌍 From Yemen — building scalable, high-impact digital platforms
 
 ---
 
 ### 🧠 About Me
 
-I’m a **Technical Lead** and **Team Manager** for [industry.com.sa](https://industry.com.sa) — a national B2B platform for industrial and export services in Saudi Arabia.  
-I also work as a **Full Stack Developer** at [moteelz.com](https://moteelz.com) — a digital platform for booking, smart contracts, and property management.
+I'm a seasoned Full Stack Developer and Technical Lead with over **6 years of experience** in designing, building, and scaling real-world digital platforms.
 
-With over **6 years of experience**, I specialize in building performance-driven platforms using:
-- ⚙️ **Laravel** (REST APIs, complex business logic, multi-tenant systems)
-- 🌐 **Vue.js & Nuxt.js** (SSR, dashboard interfaces, SEO optimization)
-- 🧠 **AI-powered automation** (dynamic product descriptions, translation workflows)
-- 📈 **Multi-vendor systems**, **subscription models**, and real-time applications
+I currently lead the technical direction and engineering teams for [industry.com.sa](https://industry.com.sa) — a national B2B platform focused on Saudi industrial and export services.  
+I also work as a hands-on Full Stack Developer at [moteelz.com](https://moteelz.com), building smart leasing, booking, and contract solutions in the real estate sector.
 
 ---
 
-### 💼 Roles I Excel In
-- ✅ Leading frontend/backend teams from planning to deployment  
-- ✅ Designing scalable SaaS & B2B platforms  
-- ✅ Building multilingual websites with SEO-first structures  
-- ✅ Full stack delivery: APIs, UI/UX, optimization, security
+### 💡 What I Specialize In
+
+- ⚙️ **Laravel** — APIs, multi-tenant architecture, business logic
+- 🌐 **Vue.js / Nuxt.js** — modern, SEO-optimized frontend development (SPA + SSR)
+- 🧠 **AI-powered automation** — smart product descriptions, translations, workflow tools
+- 🏪 **E-commerce & SaaS** — multi-vendor, subscription-based systems
+- 🚀 **End-to-end product delivery** — from architecture to deployment
 
 ---
 
-### 🛠️ Technologies I Work With
+### 🔧 Technologies I Use
+
 **Languages**: PHP, JavaScript, TypeScript  
-**Frameworks**: Laravel, Livewire, Vue.js, Nuxt 3, Tailwind CSS  
+**Frameworks**: Laravel, Livewire, Vue 3, Nuxt 3, Tailwind CSS  
 **Dev Tools**: MySQL, Redis, Git, Docker, Pusher, Spatie, Firebase  
-**Integrations**: Payment gateways (Moyasar, PayPal), AI/Translation APIs, media libraries
+**Integrations**: Moyasar, PayPal, AI APIs, Translation Engines, Media Libraries
 
 ---
 
-### 🔗 Featured Projects
+### 🌍 Featured Projects
+
 - 🏭 [industry.com.sa](https://industry.com.sa) — Saudi Export & Industry Directory  
 - 🏢 [moteelz.com](https://moteelz.com) — Real Estate Leasing & Smart Contract Platform
 
 ---
 
-### 📬 Contact Me
+### 📬 Contact
 
-- 🌐 Website: [almamari.dev](https://almamari.dev)  
+- 🌐 Portfolio: [almamari.dev](https://almamari.dev)  
 - 📧 Email: [osama.moh.almamari@gmail.com](mailto:osama.moh.almamari@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/osama-almamari](https://www.linkedin.com/in/osama-almamari)  
+- 💼 LinkedIn: [linkedin.com/in/osama-almamari](https://linkedin.com/in/osama-almamari)  
 - 💬 Telegram: [@OsamaMamari](https://t.me/OsamaMamari)
 
 ---
